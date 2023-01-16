@@ -1,0 +1,1 @@
+echo Yes|php artisan encrypt-source
